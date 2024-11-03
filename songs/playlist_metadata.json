@@ -1,0 +1,802 @@
+[
+    {
+        "filename": "2 Chainz, Kanye West - Birthday Song.mp3",
+        "title": "Birthday Song",
+        "artist": "2 Chainz/Kanye West",
+        "album": "Based On A T.R.U. Story",
+        "genre": "atl hip hop",
+        "duration": 309.02
+    },
+    {
+        "filename": "A$AP Rocky, Joe Fox, Kanye West - Jukebox Joints (feat. Joe Fox & Kanye West).mp3",
+        "title": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+        "artist": "A$AP Rocky/Joe Fox/Kanye West",
+        "album": "AT.LONG.LAST.A$AP",
+        "genre": "east coast hip hop",
+        "duration": 325.06
+    },
+    {
+        "filename": "Beyonc\u00e9, JAY-Z, Kanye West - Drunk in Love Remix (feat. Jay-Z & Kanye West).mp3",
+        "title": "Drunk in Love Remix (feat. Jay-Z & Kanye West)",
+        "artist": "Beyonc\u00e9/JAY-Z/Kanye West",
+        "album": "BEYONC\u00c9 [Platinum Edition]",
+        "genre": "pop",
+        "duration": 396.1
+    },
+    {
+        "filename": "Beyonc\u00e9, Kanye West - Ego (feat. Kanye West) - Remix.mp3",
+        "title": "Ego (feat. Kanye West) - Remix",
+        "artist": "Beyonc\u00e9/Kanye West",
+        "album": "I AM...SASHA FIERCE - Platinum Edition",
+        "genre": "pop",
+        "duration": 283.18
+    },
+    {
+        "filename": "Big Sean, Drake, Kanye West - Blessings - Extended Version.mp3",
+        "title": "Blessings - Extended Version",
+        "artist": "Big Sean/Drake/Kanye West",
+        "album": "Blessings (Extended Version)",
+        "genre": "detroit hip hop",
+        "duration": 301.99
+    },
+    {
+        "filename": "Chris Brown, Drake, Kanye West, Andr\u00e9 3000 - Deuces Remix.mp3",
+        "title": "Deuces Remix",
+        "artist": "Chris Brown/Drake/Kanye West/Andr\u00e9 3000",
+        "album": "Deuces Remix (feat. Drake, Kanye West & Andr\u00e9 3000)",
+        "genre": "r&b",
+        "duration": 339.19
+    },
+    {
+        "filename": "Consequence, Kanye West - 03' Til Infinity.mp3",
+        "title": "03' Til Infinity",
+        "artist": "Consequence/Kanye West",
+        "album": "Take'Em To The Cleaners",
+        "genre": "nyc rap",
+        "duration": 275.81
+    },
+    {
+        "filename": "Damon Dash, Kanye West, Beanie Sigel, Cam'ron, Young Chris, Twista - Champions.mp3",
+        "title": "Champions",
+        "artist": "Damon Dash/Kanye West/Beanie Sigel/Cam'ron/Young Chris/Twista",
+        "album": "Dame Dash Presents Paid In Full / Dream Team",
+        "genre": "",
+        "duration": 372.07
+    },
+    {
+        "filename": "DJ Clue, Fabolous, Kanye West - Like ThisAlmost (Skit).mp3",
+        "title": "Like This/Almost (Skit)",
+        "artist": "DJ Clue/Fabolous/Kanye West",
+        "album": "The Professional 3 (Explicit Version)",
+        "genre": "dirty south rap",
+        "duration": 328.61
+    },
+    {
+        "filename": "Drake, Kanye West, Lil Wayne, Eminem - Forever.mp3",
+        "title": "Forever",
+        "artist": "Drake/Kanye West/Lil Wayne/Eminem",
+        "album": "Relapse: Refill",
+        "genre": "canadian hip hop",
+        "duration": 357.74
+    },
+    {
+        "filename": "Estelle, Kanye West - American Boy (feat. Kanye West).mp3",
+        "title": "American Boy (feat. Kanye West)",
+        "artist": "Estelle/Kanye West",
+        "album": "Shine",
+        "genre": "neo soul",
+        "duration": 284.76
+    },
+    {
+        "filename": "Ghostface Killah, Kanye West - No Face.mp3",
+        "title": "No Face",
+        "artist": "Ghostface Killah/Kanye West",
+        "album": "No Face",
+        "genre": "east coast hip hop",
+        "duration": 275.78
+    },
+    {
+        "filename": "JAY-Z, Kanye West - Illest Motherf Alive.mp3",
+        "title": "Illest Motherf***** Alive",
+        "artist": "JAY-Z/Kanye West",
+        "album": "Watch The Throne (Deluxe)",
+        "genre": "east coast hip hop",
+        "duration": 322.64
+    },
+    {
+        "filename": "JAY-Z, Kanye West - Murder To Excellence.mp3",
+        "title": "Murder To Excellence",
+        "artist": "JAY-Z/Kanye West",
+        "album": "Watch The Throne (Deluxe)",
+        "genre": "east coast hip hop",
+        "duration": 301.06
+    },
+    {
+        "filename": "JAY-Z, Kanye West - The Bounce.mp3",
+        "title": "The Bounce",
+        "artist": "JAY-Z/Kanye West",
+        "album": "The Blueprint 2: The Gift & The Curse",
+        "genre": "east coast hip hop",
+        "duration": 258.74
+    },
+    {
+        "filename": "JAY-Z, Kanye West, Frank Ocean - Made In America.mp3",
+        "title": "Made In America",
+        "artist": "JAY-Z/Kanye West/Frank Ocean",
+        "album": "Watch The Throne (Deluxe)",
+        "genre": "east coast hip hop",
+        "duration": 290.52
+    },
+    {
+        "filename": "JAY-Z, T.I., Kanye West, Lil Wayne - Swagga Like Us.mp3",
+        "title": "Swagga Like Us",
+        "artist": "JAY-Z/T.I./Kanye West/Lil Wayne",
+        "album": "Swagga Like Us",
+        "genre": "east coast hip hop",
+        "duration": 327.74
+    },
+    {
+        "filename": "Jeezy, Kanye West - Put On.mp3",
+        "title": "Put On",
+        "artist": "Jeezy/Kanye West",
+        "album": "The Recession",
+        "genre": "atl hip hop",
+        "duration": 341.54
+    },
+    {
+        "filename": "Justin Bieber, Raekwon - Runaway Love - Kanye West Remix.mp3",
+        "title": "Runaway Love - Kanye West Remix",
+        "artist": "Justin Bieber/Raekwon",
+        "album": "Never Say Never - The Remixes",
+        "genre": "canadian pop",
+        "duration": 289.42
+    },
+    {
+        "filename": "Kanye West - 30 Hours.mp3",
+        "title": "30 Hours",
+        "artist": "Kanye West",
+        "album": "The Life Of Pablo",
+        "genre": "chicago rap",
+        "duration": 323.33
+    },
+    {
+        "filename": "Kanye West - Addiction.mp3",
+        "title": "Addiction",
+        "artist": "Kanye West",
+        "album": "Late Registration",
+        "genre": "chicago rap",
+        "duration": 267.1
+    },
+    {
+        "filename": "Kanye West - All Of The Lights.mp3",
+        "title": "All Of The Lights",
+        "artist": "Kanye West",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "genre": "chicago rap",
+        "duration": 299.64
+    },
+    {
+        "filename": "Kanye West - Big Brother.mp3",
+        "title": "Big Brother",
+        "artist": "Kanye West",
+        "album": "Graduation",
+        "genre": "chicago rap",
+        "duration": 287.59
+    },
+    {
+        "filename": "Kanye West - Blood On The Leaves.mp3",
+        "title": "Blood On The Leaves",
+        "artist": "Kanye West",
+        "album": "Yeezus",
+        "genre": "chicago rap",
+        "duration": 359.83
+    },
+    {
+        "filename": "Kanye West - Can't Tell Me Nothing.mp3",
+        "title": "Can't Tell Me Nothing",
+        "artist": "Kanye West",
+        "album": "Graduation",
+        "genre": "chicago rap",
+        "duration": 271.63
+    },
+    {
+        "filename": "Kanye West - Come to Life.mp3",
+        "title": "Come to Life",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 310.44
+    },
+    {
+        "filename": "Kanye West - Dark Fantasy.mp3",
+        "title": "Dark Fantasy",
+        "artist": "Kanye West",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "genre": "chicago rap",
+        "duration": 280.82
+    },
+    {
+        "filename": "Kanye West - Family Business.mp3",
+        "title": "Family Business",
+        "artist": "Kanye West",
+        "album": "The College Dropout",
+        "genre": "chicago rap",
+        "duration": 278.93
+    },
+    {
+        "filename": "Kanye West - God Breathed.mp3",
+        "title": "God Breathed",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 333.5
+    },
+    {
+        "filename": "Kanye West - Hell Of A Life.mp3",
+        "title": "Hell Of A Life",
+        "artist": "Kanye West",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "genre": "chicago rap",
+        "duration": 327.82
+    },
+    {
+        "filename": "Kanye West - Hey Mama.mp3",
+        "title": "Hey Mama",
+        "artist": "Kanye West",
+        "album": "Late Registration",
+        "genre": "chicago rap",
+        "duration": 305.06
+    },
+    {
+        "filename": "Kanye West - Hold My Liquor.mp3",
+        "title": "Hold My Liquor",
+        "artist": "Kanye West",
+        "album": "Yeezus",
+        "genre": "chicago rap",
+        "duration": 326.98
+    },
+    {
+        "filename": "Kanye West - Jail pt 2.mp3",
+        "title": "Jail pt 2",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 297.02
+    },
+    {
+        "filename": "Kanye West - Jail.mp3",
+        "title": "Jail",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 297.02
+    },
+    {
+        "filename": "Kanye West - Jesus Lord pt 2.mp3",
+        "title": "Jesus Lord pt 2",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 725.88
+    },
+    {
+        "filename": "Kanye West - Jesus Lord.mp3",
+        "title": "Jesus Lord",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 573.7
+    },
+    {
+        "filename": "Kanye West - Last Call.mp3",
+        "title": "Last Call",
+        "artist": "Kanye West",
+        "album": "The College Dropout",
+        "genre": "chicago rap",
+        "duration": 761.02
+    },
+    {
+        "filename": "Kanye West - Love Lockdown.mp3",
+        "title": "Love Lockdown",
+        "artist": "Kanye West",
+        "album": "808s & Heartbreak",
+        "genre": "chicago rap",
+        "duration": 270.34
+    },
+    {
+        "filename": "Kanye West - New Slaves.mp3",
+        "title": "New Slaves",
+        "artist": "Kanye West",
+        "album": "Yeezus",
+        "genre": "chicago rap",
+        "duration": 256.13
+    },
+    {
+        "filename": "Kanye West - No More Parties In LA.mp3",
+        "title": "No More Parties In LA",
+        "artist": "Kanye West",
+        "album": "The Life Of Pablo",
+        "genre": "chicago rap",
+        "duration": 374.45
+    },
+    {
+        "filename": "Kanye West - Off The Grid.mp3",
+        "title": "Off The Grid",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 339.29
+    },
+    {
+        "filename": "Kanye West - POWER.mp3",
+        "title": "POWER",
+        "artist": "Kanye West",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "genre": "chicago rap",
+        "duration": 292.13
+    },
+    {
+        "filename": "Kanye West - Pure Souls.mp3",
+        "title": "Pure Souls",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 358.66
+    },
+    {
+        "filename": "Kanye West - Remote Control pt 2.mp3",
+        "title": "Remote Control pt 2",
+        "artist": "Kanye West",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 323.5
+    },
+    {
+        "filename": "Kanye West - RoboCop.mp3",
+        "title": "RoboCop",
+        "artist": "Kanye West",
+        "album": "808s & Heartbreak",
+        "genre": "chicago rap",
+        "duration": 274.39
+    },
+    {
+        "filename": "Kanye West - Saint Pablo.mp3",
+        "title": "Saint Pablo",
+        "artist": "Kanye West",
+        "album": "The Life Of Pablo",
+        "genre": "chicago rap",
+        "duration": 372.14
+    },
+    {
+        "filename": "Kanye West - Say You Will.mp3",
+        "title": "Say You Will",
+        "artist": "Kanye West",
+        "album": "808s & Heartbreak",
+        "genre": "chicago rap",
+        "duration": 377.64
+    },
+    {
+        "filename": "Kanye West - Stronger - AD Remix Main.mp3",
+        "title": "Stronger - AD Remix Main",
+        "artist": "Kanye West",
+        "album": "Flashing Lights",
+        "genre": "chicago rap",
+        "duration": 283.51
+    },
+    {
+        "filename": "Kanye West - Stronger.mp3",
+        "title": "Stronger",
+        "artist": "Kanye West",
+        "album": "Graduation",
+        "genre": "chicago rap",
+        "duration": 311.9
+    },
+    {
+        "filename": "Kanye West - The New Workout Plan.mp3",
+        "title": "The New Workout Plan",
+        "artist": "Kanye West",
+        "album": "The College Dropout",
+        "genre": "chicago rap",
+        "duration": 322.82
+    },
+    {
+        "filename": "Kanye West - Ultralight Beam.mp3",
+        "title": "Ultralight Beam",
+        "artist": "Kanye West",
+        "album": "The Life Of Pablo",
+        "genre": "chicago rap",
+        "duration": 320.71
+    },
+    {
+        "filename": "Kanye West - Wolves.mp3",
+        "title": "Wolves",
+        "artist": "Kanye West",
+        "album": "The Life Of Pablo",
+        "genre": "chicago rap",
+        "duration": 301.63
+    },
+    {
+        "filename": "Kanye West, Andr\u00e9 3000 - Life Of The Party (with Andr\u00e9 3000).mp3",
+        "title": "Life Of The Party (with Andr\u00e9 3000)",
+        "artist": "Kanye West/Andr\u00e9 3000",
+        "album": "Donda (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 391.7
+    },
+    {
+        "filename": "Kanye West, Beyonc\u00e9, Charlie Wilson, Big Sean - See Me Now - Exclusive Bonus Track (Explicit).mp3",
+        "title": "See Me Now - Exclusive Bonus Track (Explicit)",
+        "artist": "Kanye West/Beyonc\u00e9/Charlie Wilson/Big Sean",
+        "album": "My Beautiful Dark Twisted Fantasy (Explicit Version)",
+        "genre": "chicago rap",
+        "duration": 363.98
+    },
+    {
+        "filename": "Kanye West, Big Sean, 2 Chainz, Marsha Ambrosius - The One.mp3",
+        "title": "The One",
+        "artist": "Kanye West/Big Sean/2 Chainz/Marsha Ambrosius",
+        "album": "Kanye West Presents Good Music Cruel Summer",
+        "genre": "chicago rap",
+        "duration": 344.57
+    },
+    {
+        "filename": "Kanye West, Big Sean, Pusha T, 2 Chainz - Mercy.1.mp3",
+        "title": "Mercy.1",
+        "artist": "Kanye West/Big Sean/Pusha T/2 Chainz",
+        "album": "Kanye West Presents Good Music Cruel Summer",
+        "genre": "chicago rap",
+        "duration": 326.38
+    },
+    {
+        "filename": "Kanye West, Chief Keef, Pusha T, Big Sean, Jadakiss - Don't Like.1.mp3",
+        "title": "Don't Like.1",
+        "artist": "Kanye West/Chief Keef/Pusha T/Big Sean/Jadakiss",
+        "album": "Kanye West Presents Good Music Cruel Summer",
+        "genre": "chicago rap",
+        "duration": 283.68
+    },
+    {
+        "filename": "Kanye West, Consequence, Cam'ron - Gone.mp3",
+        "title": "Gone",
+        "artist": "Kanye West/Consequence/Cam'ron",
+        "album": "Late Registration",
+        "genre": "chicago rap",
+        "duration": 332.78
+    },
+    {
+        "filename": "Kanye West, GLC, Consequence - Spaceship.mp3",
+        "title": "Spaceship",
+        "artist": "Kanye West/GLC/Consequence",
+        "album": "The College Dropout",
+        "genre": "chicago rap",
+        "duration": 324.31
+    },
+    {
+        "filename": "Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travis Scott, Yo Gotti, Quavo, Desiigner - Champions.mp3",
+        "title": "Champions",
+        "artist": "Kanye West/Gucci Mane/Big Sean/2 Chainz/Travis Scott/Yo Gotti/Quavo/Desiigner",
+        "album": "Champions",
+        "genre": "chicago rap",
+        "duration": 334.06
+    },
+    {
+        "filename": "Kanye West, JAY-Z - H\u2022A\u2022M.mp3",
+        "title": "H\u2022A\u2022M",
+        "artist": "Kanye West/JAY-Z",
+        "album": "Watch The Throne (Deluxe)",
+        "genre": "chicago rap",
+        "duration": 326.42
+    },
+    {
+        "filename": "Kanye West, JAY-Z, Big Sean - Clique.mp3",
+        "title": "Clique",
+        "artist": "Kanye West/JAY-Z/Big Sean",
+        "album": "Kanye West Presents Good Music Cruel Summer",
+        "genre": "chicago rap",
+        "duration": 293.54
+    },
+    {
+        "filename": "Kanye West, JAY-Z, J. Ivy - Never Let Me Down.mp3",
+        "title": "Never Let Me Down",
+        "artist": "Kanye West/JAY-Z/J. Ivy",
+        "album": "The College Dropout",
+        "genre": "chicago rap",
+        "duration": 324.55
+    },
+    {
+        "filename": "Kanye West, JAY-Z, Rick Ross, Nicki Minaj, Bon Iver - Monster.mp3",
+        "title": "Monster",
+        "artist": "Kanye West/JAY-Z/Rick Ross/Nicki Minaj/Bon Iver",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "genre": "chicago rap",
+        "duration": 378.94
+    },
+    {
+        "filename": "Kanye West, John Legend - Blame Game.mp3",
+        "title": "Blame Game",
+        "artist": "Kanye West/John Legend",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "genre": "chicago rap",
+        "duration": 471.12
+    },
+    {
+        "filename": "Kanye West, Kid Cudi, Raekwon - Gorgeous.mp3",
+        "title": "Gorgeous",
+        "artist": "Kanye West/Kid Cudi/Raekwon",
+        "album": "My Beautiful Dark Twisted Fantasy",
+        "genre": "chicago rap",
+        "duration": 357.96
+    },
+    {
+        "filename": "Kanye West, Mos Def - Drunk and Hot Girls.mp3",
+        "title": "Drunk and Hot Girls",
+        "artist": "Kanye West/Mos Def",
+        "album": "Graduation",
+        "genre": "chicago rap",
+        "duration": 313.32
+    },
+    {
+        "filename": "Kanye West, Pusha T, Ghostface Killah - New God Flow.1.mp3",
+        "title": "New God Flow.1",
+        "artist": "Kanye West/Pusha T/Ghostface Killah",
+        "album": "Kanye West Presents Good Music Cruel Summer",
+        "genre": "chicago rap",
+        "duration": 357.36
+    },
+    {
+        "filename": "Kanye West, Rick Ross - Devil In A New Dress.mp3",
+        "title": "",
+        "artist": "",
+        "album": "",
+        "genre": "",
+        "duration": 0.0
+    },
+    {
+        "filename": "Kanye West, Theophilus London, Allan Kingdom, Paul McCartney - All Day.mp3",
+        "title": "All Day",
+        "artist": "Kanye West/Theophilus London/Allan Kingdom/Paul McCartney",
+        "album": "All Day",
+        "genre": "chicago rap",
+        "duration": 310.94
+    },
+    {
+        "filename": "Kanye West, Twista, Keyshia Cole, BJ - Impossible - Radio Edit.mp3",
+        "title": "Impossible - Radio Edit",
+        "artist": "Kanye West/Twista/Keyshia Cole/BJ",
+        "album": "Impossible",
+        "genre": "chicago rap",
+        "duration": 268.99
+    },
+    {
+        "filename": "Kanye West, Ty Dolla $ign - BACK TO ME.mp3",
+        "title": "BACK TO ME",
+        "artist": "Kanye West/Ty Dolla $ign",
+        "album": "VULTURES 1",
+        "genre": "chicago rap",
+        "duration": 295.51
+    },
+    {
+        "filename": "Kanye West, Ty Dolla $ign - BEG FORGIVENESS.mp3",
+        "title": "BEG FORGIVENESS",
+        "artist": "Kanye West/Ty Dolla $ign",
+        "album": "VULTURES 1",
+        "genre": "chicago rap",
+        "duration": 368.78
+    },
+    {
+        "filename": "Kanye West, Ty Dolla $ign - CARNIVAL.mp3",
+        "title": "CARNIVAL",
+        "artist": "Kanye West/Ty Dolla $ign",
+        "album": "VULTURES 1",
+        "genre": "chicago rap",
+        "duration": 264.36
+    },
+    {
+        "filename": "Kanye West, Ty Dolla $ign - VULTURES.mp3",
+        "title": "VULTURES",
+        "artist": "Kanye West/Ty Dolla $ign",
+        "album": "VULTURES 1",
+        "genre": "chicago rap",
+        "duration": 277.03
+    },
+    {
+        "filename": "Keri Hilson, Kanye West - Pretty Girl Rock.mp3",
+        "title": "Pretty Girl Rock",
+        "artist": "Keri Hilson/Kanye West",
+        "album": "No Boys Allowed",
+        "genre": "dance pop",
+        "duration": 256.18
+    },
+    {
+        "filename": "Keri Hilson, Kanye West, Ne-Yo - Knock You Down.mp3",
+        "title": "Knock You Down",
+        "artist": "Keri Hilson/Kanye West/Ne-Yo",
+        "album": "In A Perfect World...",
+        "genre": "dance pop",
+        "duration": 317.76
+    },
+    {
+        "filename": "KIDS SEE GHOSTS - Reborn.mp3",
+        "title": "Reborn",
+        "artist": "KIDS SEE GHOSTS",
+        "album": "KIDS SEE GHOSTS",
+        "genre": "rap",
+        "duration": 324.72
+    },
+    {
+        "filename": "Madonna, Kanye West - Beat Goes On (feat. Kanye West).mp3",
+        "title": "Beat Goes On (feat. Kanye West)",
+        "artist": "Madonna/Kanye West",
+        "album": "Hard Candy",
+        "genre": "dance pop",
+        "duration": 266.93
+    },
+    {
+        "filename": "Malik Yusef, Jv, Kanye West, Common - Wouldn't You Like To Ride - Joe Smooth Hip Hop Remix.mp3",
+        "title": "Wouldn't You Like To Ride - Joe Smooth Hip Hop Remix",
+        "artist": "Malik Yusef/Jv/Kanye West/Common",
+        "album": "Wouldn't You Like To Ride -S & S Remixes",
+        "genre": "chicago rap",
+        "duration": 256.42
+    },
+    {
+        "filename": "Mary J. Blige, Kanye West - Love Yourself.mp3",
+        "title": "Love Yourself",
+        "artist": "Mary J. Blige/Kanye West",
+        "album": "Strength Of A Woman",
+        "genre": "dance pop",
+        "duration": 298.61
+    },
+    {
+        "filename": "Michael Jackson, Kanye West - Billie Jean (2008 Kanye West Mix) (feat. Kanye West) - Thriller 25th Anniversary Remix.mp3",
+        "title": "Billie Jean (2008 Kanye West Mix) (feat. Kanye West) - Thriller 25th Anniversary Remix",
+        "artist": "Michael Jackson/Kanye West",
+        "album": "Thriller 25 Super Deluxe Edition",
+        "genre": "r&b",
+        "duration": 275.98
+    },
+    {
+        "filename": "Nas, The-Dream, Kanye West - everything.mp3",
+        "title": "everything",
+        "artist": "Nas/The-Dream/Kanye West",
+        "album": "NASIR",
+        "genre": "conscious hip hop",
+        "duration": 452.59
+    },
+    {
+        "filename": "Nicki Minaj, Kanye West - Blazin.mp3",
+        "title": "Blazin",
+        "artist": "Nicki Minaj/Kanye West",
+        "album": "Pink Friday",
+        "genre": "hip pop",
+        "duration": 301.94
+    },
+    {
+        "filename": "Pusha T, Kanye West, A$AP Rocky, The-Dream - M.P.A..mp3",
+        "title": "M.P.A.",
+        "artist": "Pusha T/Kanye West/A$AP Rocky/The-Dream",
+        "album": "King Push \u2013 Darkest Before Dawn: The Prelude",
+        "genre": "gangster rap",
+        "duration": 286.54
+    },
+    {
+        "filename": "Rhymefest, Kanye West - More (feat. Kanye West).mp3",
+        "title": "More (feat. Kanye West)",
+        "artist": "Rhymefest/Kanye West",
+        "album": "Blue Collar",
+        "genre": "alternative hip hop",
+        "duration": 252.29
+    },
+    {
+        "filename": "Rick Ross, Kanye West - Live Fast, Die Young.mp3",
+        "title": "Live Fast, Die Young",
+        "artist": "Rick Ross/Kanye West",
+        "album": "Teflon Don",
+        "genre": "dirty south rap",
+        "duration": 374.1
+    },
+    {
+        "filename": "Rick Ross, T-Pain, Lil Wayne, Kanye West - Maybach Music 2.mp3",
+        "title": "Maybach Music 2",
+        "artist": "Rick Ross/T-Pain/Lil Wayne/Kanye West",
+        "album": "Deeper Than Rap",
+        "genre": "dirty south rap",
+        "duration": 299.96
+    },
+    {
+        "filename": "Rihanna, Kanye West - Diamonds - Remix.mp3",
+        "title": "Diamonds - Remix",
+        "artist": "Rihanna/Kanye West",
+        "album": "Diamonds (Remix)",
+        "genre": "barbadian pop",
+        "duration": 288.46
+    },
+    {
+        "filename": "ScHoolboy Q, Kanye West - THat Part.mp3",
+        "title": "THat Part",
+        "artist": "ScHoolboy Q/Kanye West",
+        "album": "Blank Face LP",
+        "genre": "gangster rap",
+        "duration": 313.61
+    },
+    {
+        "filename": "Snoop Dogg, Kanye West, John Legend - Eyez Closed.mp3",
+        "title": "Eyez Closed",
+        "artist": "Snoop Dogg/Kanye West/John Legend",
+        "album": "Doggumentary",
+        "genre": "g funk",
+        "duration": 303.5
+    },
+    {
+        "filename": "Sophia Fresh, Kanye West - What It Is (feat. Kanye West).mp3",
+        "title": "What It Is (feat. Kanye West)",
+        "artist": "Sophia Fresh/Kanye West",
+        "album": "What It Is (feat. Kanye West)",
+        "genre": "",
+        "duration": 265.85
+    },
+    {
+        "filename": "The Weeknd - Tell Your Friends.mp3",
+        "title": "Tell Your Friends",
+        "artist": "The Weeknd",
+        "album": "Beauty Behind The Madness",
+        "genre": "canadian contemporary r&b",
+        "duration": 334.37
+    },
+    {
+        "filename": "Thirty Seconds To Mars, Kanye West - Hurricane 2.0.mp3",
+        "title": "Hurricane 2.0",
+        "artist": "Thirty Seconds To Mars/Kanye West",
+        "album": "This Is War (Deluxe)",
+        "genre": "modern rock",
+        "duration": 371.86
+    },
+    {
+        "filename": "Twista, Kanye West, Jamie Foxx - Slow Jamz.mp3",
+        "title": "Slow Jamz",
+        "artist": "Twista/Kanye West/Jamie Foxx",
+        "album": "The College Dropout",
+        "genre": "chicago rap",
+        "duration": 316.08
+    },
+    {
+        "filename": "Ty Dolla $ign, Diddy, Kanye West - Guard Down (feat. Kanye West & Diddy).mp3",
+        "title": "Guard Down (feat. Kanye West & Diddy)",
+        "artist": "Ty Dolla $ign/Diddy/Kanye West",
+        "album": "Free TC (Deluxe Edition)",
+        "genre": "hip hop",
+        "duration": 296.86
+    },
+    {
+        "filename": "Tyler, The Creator, Lil Wayne, Kanye West - SMUCKERS (feat. Lil Wayne & Kanye West).mp3",
+        "title": "SMUCKERS (feat. Lil Wayne & Kanye West)",
+        "artist": "Tyler, The Creator/Lil Wayne/Kanye West",
+        "album": "Cherry Bomb",
+        "genre": "hip hop",
+        "duration": 336.05
+    },
+    {
+        "filename": "VIC MENSA, Kanye West - U Mad.mp3",
+        "title": "U Mad",
+        "artist": "VIC MENSA/Kanye West",
+        "album": "U Mad",
+        "genre": "canadian hip hop",
+        "duration": 299.83
+    },
+    {
+        "filename": "WestbamML, Kanye West - Radio Siberia.mp3",
+        "title": "Radio Siberia",
+        "artist": "Westbam/ML/Kanye West",
+        "album": "G\u00f6tterstrasse (Deluxe Edition)",
+        "genre": "bubble trance",
+        "duration": 328.66
+    },
+    {
+        "filename": "\u00a5$, Kanye West, Ty Dolla $ign - LIFESTYLE.mp3",
+        "title": "LIFESTYLE",
+        "artist": "\u00a5$/Kanye West/Ty Dolla $ign",
+        "album": "VULTURES 2",
+        "genre": "",
+        "duration": 331.32
+    }
+]
